@@ -6,8 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="springFirstWebWithJavaCodeAndAnnotation" />
         <module name="SpringWebAppWithXmlConfiguration" />
+        <module name="SpringWebAppWithJavaCodeAndAnnotation" />
         <module name="SpringWebAppWithXmlAndAnnotation" />
       </profile>
     </annotationProcessing>
